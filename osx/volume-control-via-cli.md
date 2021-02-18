@@ -1,2 +1,2 @@
-!Volume Control via CLI
+# Volume Control via CLI
 Sudo osascript -e "set Volume 5.6" 
